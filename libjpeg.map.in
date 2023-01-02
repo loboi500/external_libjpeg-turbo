@@ -1,11 +1,3 @@
-LIBJPEGTURBO_@JPEG_LIB_VERSION_DECIMAL@ {
-  @MEM_SRCDST_FUNCTIONS@
-  local:
-    jsimd_*;
-    jconst_*;
-};
-
-LIBJPEG_@JPEG_LIB_VERSION_DECIMAL@ {
-  global:
-    *;
-};
+version https://git-lfs.github.com/spec/v1
+oid sha256:31bd5e6e7d4232bd505aa181f3e3ed6d5198e8cc3392f44f235dd4515f40988e
+size 164
